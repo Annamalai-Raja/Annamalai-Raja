@@ -7,7 +7,7 @@
 
 💞️ I'm looking to collaborate on projects related to test automation frameworks, quality assurance strategies, and improving software testing processes.
 
-📫 How to reach me: Feel free to connect with me on LinkedIn (www.linkedin.com/in/annamalai-raja) or email me at annamalai_raja@outlook.com.
+📫 How to reach me: Feel free to connect with me on LinkedIn (www.linkedin.com/in/annamalai-raja) or email me at annamalairaja2903@gmail.com.
 
 😄 Pronouns: He/him
 
