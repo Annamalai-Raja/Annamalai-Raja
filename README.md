@@ -1,18 +1,30 @@
+# 👋 Hi, I'm Annamalai Raja  
 
-👋 Hi, I'm @Annamalai-Raja, a test engineer with 2 years of experience.
-
-👀 I'm interested in software quality assurance, test automation, and continuous improvement methodologies.
-
-🌱 I'm currently learning advanced test automation techniques and expanding my knowledge in programming languages like Java and Javascript.
-
-💞️ I'm looking to collaborate on projects related to test automation frameworks, quality assurance strategies, and improving software testing processes.
-
-📫 How to reach me: Feel free to connect with me on LinkedIn (www.linkedin.com/in/annamalai-raja) or email me at annamalairaja2903@gmail.com.
-
-😄 Pronouns: He/him
-
-
-<!---
-Annamalai-Raja/Annamalai-Raja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Test Automation Engineer | Quality Enthusiast**  
+With 3 years of experience in software quality assurance, I specialize in crafting robust test automation frameworks and ensuring software quality.  
+---
+## 👀 Interests  
+- **Software Quality Assurance**: Passionate about delivering bug-free, high-performing applications.  
+- **Test Automation**: Developing scalable, maintainable automation frameworks.  
+- **Continuous Improvement**: Leveraging agile and DevOps methodologies to optimize testing processes.  
+---
+## 🌱 Currently Learning  
+- Advanced test automation techniques to keep up with evolving technologies.  
+- Enhancing my programming skills in **Java** and **JavaScript**.  
+- Exploring modern tools like **Cypress**, **Playwright**, and cloud-based testing platforms.  
+---
+## 💞️ Collaboration Goals  
+I'm eager to collaborate on:  
+- Building **test automation frameworks** from scratch.  
+- Designing effective **quality assurance strategies**.  
+- Streamlining and automating **software testing processes**.  
+---
+## 📫 Connect with Me  
+- **LinkedIn**: [linkedin.com/in/annamalai-raja](https://www.linkedin.com/in/annamalai-raja)  
+- **Email**: [annamalairaja2903@gmail.com](mailto:annamalairaja2903@gmail.com)  
+---
+## 😄 Pronouns  
+He/Him  
+---
+Feel free to reach out for collaboration or discussions about testing, automation, or software quality!  
+--- 
