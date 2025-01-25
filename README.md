@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Annamalai Raja  
 
-🚀 **Test Automation Engineer | Quality Enthusiast**  
-With 3 years of experience in software quality assurance, I specialize in crafting robust test automation frameworks and ensuring software quality.  
+🚀 **Test Automation Engineer | 
+With 3 years of experience in automation testing, I specialize in crafting and contributing to  robust test automation frameworks and ensuring software quality.  
 ---
 ## 👀 Interests  
 - **Software Quality Assurance**: Passionate about delivering bug-free, high-performing applications.  
