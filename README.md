@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Annamalai Raja  
 
-🚀 **Test Automation Engineer | 
+🚀Test Automation Engineer | 
 With 3 years of experience in automation testing, I specialize in crafting and contributing to  robust test automation frameworks and ensuring software quality.  
 ---
 ## 👀 Interests  
