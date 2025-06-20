@@ -1,30 +1,32 @@
 # 👋 Hi, I'm Annamalai Raja  
 
-🚀Test Automation Engineer | 
-With 3 years of experience in automation testing, I specialize in crafting and contributing to  robust test automation frameworks and ensuring software quality.  
+🔧 **Test Automation Engineer** with 3 years of experience in designing and maintaining robust test automation frameworks. Skilled in ensuring software quality through effective test strategies and tools.
+
 ---
-## 👀 Interests  
-- **Software Quality Assurance**: Passionate about delivering bug-free, high-performing applications.  
-- **Test Automation**: Developing scalable, maintainable automation frameworks.  
-- **Continuous Improvement**: Leveraging agile and DevOps methodologies to optimize testing processes.  
+
+## 💼 Professional Interests  
+- Automation Testing with Selenium, Rest Assured, Postman  
+- Building scalable and maintainable test frameworks  
+- Ensuring software quality through continuous testing  
+
 ---
-## 🌱 Currently Learning  
-- Advanced test automation techniques to keep up with evolving technologies.  
-- Enhancing my programming skills in **Java** and **JavaScript**.  
-- Exploring modern tools like **Cypress**, **Playwright**, and cloud-based testing platforms.  
+
+## 📚 Currently Learning  
+- Advanced Java and JavaScript for test automation  
+- Tools like Playwright  
+
 ---
-## 💞️ Collaboration Goals  
-I'm eager to collaborate on:  
-- Building **test automation frameworks** from scratch.  
-- Designing effective **quality assurance strategies**.  
-- Streamlining and automating **software testing processes**.  
+
+## 🤝 Open to Collaborate On  
+- Automation framework development  
+- Quality assurance strategy and implementation  
+- Test process optimization  
+
 ---
-## 📫 Connect with Me  
+
+## 📫 Contact Me  
 - **LinkedIn**: [linkedin.com/in/annamalai-raja](https://www.linkedin.com/in/annamalai-raja)  
 - **Email**: [annamalairaja2903@gmail.com](mailto:annamalairaja2903@gmail.com)  
+
 ---
-## 😄 Pronouns  
-He/Him  
----
-Feel free to reach out for collaboration or discussions about testing, automation, or software quality!  
---- 
+
