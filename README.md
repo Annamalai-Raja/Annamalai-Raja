@@ -7,7 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-annamalairaja2903@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annamalairaja2903@gmail.com)](mailto:annamalairaja2903@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://annamalai-raja.github.io/portfolio/)
-- ⚡ Fun fact: The first rule of testing- .🤓
 
 #### 💻 What I Love Working With
 
